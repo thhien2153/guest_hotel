@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "12079896292",
+    "project_id": "fooddeliveryapp-4a1e6",
+    "storage_bucket": "fooddeliveryapp-4a1e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12079896292:android:af0096f8c78a2f5f7dfef1",
+        "android_client_info": {
+          "package_name": "com.example.guest_hotel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW3ySooSGvwPMOowxl4jyFWSxi9-WXZc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
